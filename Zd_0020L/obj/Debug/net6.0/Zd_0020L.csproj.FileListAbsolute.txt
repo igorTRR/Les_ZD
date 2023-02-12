@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\bin\Debug\net6.0\Zd_0020L.exe
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\bin\Debug\net6.0\Zd_0020L.deps.json
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\bin\Debug\net6.0\Zd_0020L.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\bin\Debug\net6.0\Zd_0020L.dll
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\bin\Debug\net6.0\Zd_0020L.pdb
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\obj\Debug\net6.0\Zd_0020L.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\obj\Debug\net6.0\Zd_0020L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\obj\Debug\net6.0\Zd_0020L.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\obj\Debug\net6.0\Zd_0020L.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\obj\Debug\net6.0\Zd_0020L.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\obj\Debug\net6.0\Zd_0020L.dll
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\obj\Debug\net6.0\refint\Zd_0020L.dll
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\obj\Debug\net6.0\Zd_0020L.pdb
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\obj\Debug\net6.0\Zd_0020L.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\Zd_0020L\obj\Debug\net6.0\ref\Zd_0020L.dll

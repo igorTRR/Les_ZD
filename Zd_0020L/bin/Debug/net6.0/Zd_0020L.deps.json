@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zd_0020L/1.0.0": {
+        "runtime": {
+          "Zd_0020L.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zd_0020L/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
