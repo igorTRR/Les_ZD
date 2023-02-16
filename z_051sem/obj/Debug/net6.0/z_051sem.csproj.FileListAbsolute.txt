@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\bin\Debug\net6.0\z_051sem.exe
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\bin\Debug\net6.0\z_051sem.deps.json
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\bin\Debug\net6.0\z_051sem.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\bin\Debug\net6.0\z_051sem.dll
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\bin\Debug\net6.0\z_051sem.pdb
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\obj\Debug\net6.0\z_051sem.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\obj\Debug\net6.0\z_051sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\obj\Debug\net6.0\z_051sem.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\obj\Debug\net6.0\z_051sem.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\obj\Debug\net6.0\z_051sem.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\obj\Debug\net6.0\z_051sem.dll
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\obj\Debug\net6.0\refint\z_051sem.dll
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\obj\Debug\net6.0\z_051sem.pdb
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\obj\Debug\net6.0\z_051sem.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\z_051sem\obj\Debug\net6.0\ref\z_051sem.dll
