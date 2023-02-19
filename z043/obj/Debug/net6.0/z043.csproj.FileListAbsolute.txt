@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\bin\Debug\net6.0\z043.exe
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\bin\Debug\net6.0\z043.deps.json
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\bin\Debug\net6.0\z043.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\bin\Debug\net6.0\z043.dll
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\bin\Debug\net6.0\z043.pdb
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\obj\Debug\net6.0\z043.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\obj\Debug\net6.0\z043.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\obj\Debug\net6.0\z043.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\obj\Debug\net6.0\z043.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\obj\Debug\net6.0\z043.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\obj\Debug\net6.0\z043.dll
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\obj\Debug\net6.0\refint\z043.dll
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\obj\Debug\net6.0\z043.pdb
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\obj\Debug\net6.0\z043.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Les_4ZD\z043\obj\Debug\net6.0\ref\z043.dll
