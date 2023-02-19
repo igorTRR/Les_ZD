@@ -13,4 +13,4 @@ int k2 =int.Parse(Console.ReadLine()!);
 Console.Write("Введите b2: ");
 int b2 =int.Parse(Console.ReadLine()!);
 
-int
+
